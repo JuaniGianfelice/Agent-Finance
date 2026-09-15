@@ -13,7 +13,7 @@
 - MELI — Mercado Libre — ratio 120:1
 - NVDA — Nvidia — ratio 24:1
 - GOOGL — Google (Alphabet clase A) — ratio 58:1
-- NU - Nu Holdings - ratio ?
+- NU — Nu Holdings — ratio 2:1
 
 <!-- Ratios verificados el 01/09/2026 contra dos fuentes independientes; ambas coinciden. -->
 
